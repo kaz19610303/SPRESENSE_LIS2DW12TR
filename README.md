@@ -26,3 +26,6 @@ https://www.st.com/ja/mems-and-sensors/lis2dw12.html
   
 Arduino library to support the LIS2DW12 3D accelerometer  
 https://github.com/stm32duino/LIS2DW12  
+  
+LIS2DW12 Arduino Library  
+https://github.com/arraym/LIS2DW12-Arduino-Lib  
