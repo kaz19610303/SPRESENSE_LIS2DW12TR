@@ -29,3 +29,6 @@ https://github.com/stm32duino/LIS2DW12
   
 LIS2DW12 Arduino Library  
 https://github.com/arraym/LIS2DW12-Arduino-Lib  
+  
+サンプルプログラム  
+https://github.com/kriswiner/LIS2DW12   
